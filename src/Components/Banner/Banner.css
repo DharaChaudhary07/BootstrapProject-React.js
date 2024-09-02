@@ -1,0 +1,25 @@
+
+.banner{
+    position: relative;
+}
+.banner-img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+
+.banner-content{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translateY(-10%);
+}
+.banner-content h2{
+    font-size: 44px;
+    letter-spacing: 2.5px;
+}
+.banner-content h5{
+    font-size: 20px;
+    letter-spacing: 2.5px;
+}

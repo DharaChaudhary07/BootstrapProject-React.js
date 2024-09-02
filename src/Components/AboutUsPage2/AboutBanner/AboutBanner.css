@@ -1,0 +1,16 @@
+
+.about-banner-img h2{
+    font-size: 50px;
+    color: black;
+    font-weight: 600;
+    letter-spacing: 5px;
+    line-height: 58px;
+    color: white;
+    text-transform: uppercase;
+    /* margin-top: 50px; */
+    text-align: center;
+    /* margin-top: 100px; */
+    /* margin: auto auto; */
+    transform: translate(0%, 100%);
+    margin-top: 200px;
+}

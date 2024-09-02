@@ -1,0 +1,38 @@
+
+
+footer{
+    padding: 95px 0 60px;
+}
+.footer h4{
+    font-size: 16px;
+    line-height: 25px;
+    margin: 20px 0;
+    font-weight: 600;
+    color: #080808;
+    letter-spacing: .1em;
+    margin-left: 20px;
+}
+.footer ul{
+    margin-bottom: 60px;
+}
+.footer ul li a{
+    font-size: 14px;
+    line-height: 25px;
+    margin: 10px 0;
+    font-weight: 400;
+    color: #8e8e8e;
+    letter-spacing: .1em;
+    text-decoration: none;
+}
+.footer ul li a:hover{
+    color: #080808;
+}
+span{
+    font-size: 12px;
+    line-height: 25px;
+    margin: 10px 0;
+    font-weight: 400;
+    color: #8e8e8e;
+    letter-spacing: .1em;
+    margin-top: 50px;
+}

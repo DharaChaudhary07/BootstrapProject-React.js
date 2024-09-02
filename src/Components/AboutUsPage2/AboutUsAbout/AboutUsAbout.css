@@ -1,0 +1,46 @@
+
+.AboutAbout{
+    padding-top: 100px;
+}
+.about-content{
+    padding-top: 15px;
+}
+.btn span {
+    color: black;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 0px;
+    border: 1px solid #b9b9b9;
+    padding: 20px 40px;
+}
+.btn-1 span {
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 0px;
+    background-color: black;
+    padding: 20px 40px;
+}
+.btn-1{
+    padding-top: 7px;
+}
+.btn span:hover{
+    background-color: black;
+    color: white;
+}
+/* .btn:not(:first-child){
+    background-color:transparent;
+    border: 1px solid #b9b9b9;
+    padding: 20px 40px;
+    border-radius: 0px;
+}
+.btn:hover:not(:first-child){
+    background-color: black;
+    color: white;
+}
+.btn span:hover:first-child{
+   color: black;
+}
+.btn span:hover{
+    color: white;
+} */

@@ -1,0 +1,19 @@
+.about-content h5{
+    font-size: 14px;
+    font-weight: 600;
+    color: #080808;
+    letter-spacing: 2.5px;
+}
+.star{
+    color: #f9a826;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.about-content span{
+    font-size: 18px;
+    font-weight: 400;
+    color: #8e8e8e;
+}
+.about-content{
+    transform: translate(10%, 40%);
+}
